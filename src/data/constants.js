@@ -392,14 +392,14 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dwl2vvvkw/image/upload/v1778744057/Portfolio/Portfoli2.png",
     tags: [
-      "avascript",
+      "javascript",
       "HTML",
       "CSS",
       "Cloudinary Storge",
     ],
     category: "web app",
     github: "https://github.com/roushankumark/portfolio",
-    webapp: "https://roushankumark.github.io/portfolio/",
+    webapp: "https://roushankumark.github.io/Portfolio-new/",
   },
   {
     id: 2,
